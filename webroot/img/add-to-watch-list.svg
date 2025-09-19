@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Add_to_watch_list" data-name="Add to watch list" transform="translate(-.307)">
+        <g id="prefix__Group_38" data-name="Group 38">
+            <g id="prefix__Rounded_Rectangle_15" fill="none" stroke="#fff" stroke-miterlimit="10" data-name="Rounded Rectangle 15" opacity="0.45" transform="translate(.307)">
+                <rect width="44" height="44" stroke="none" rx="22"/>
+                <rect width="43" height="43" x=".5" y=".5" class="prefix__cls-3" rx="21.5"/>
+            </g>
+            <g id="prefix__add-24px-2" opacity="0.75" transform="translate(8.307 8)">
+                <path id="prefix__Path_3002" d="M0 0h28v28H0z" class="prefix__cls-3" data-name="Path 3002"/>
+                <path id="prefix__Path_3003" fill="#fff" d="M23 15.286h-7.714V23h-2.572v-7.714H5v-2.572h7.714V5h2.571v7.714H23z" data-name="Path 3003"/>
+            </g>
+        </g>
+    </g>
+</svg>

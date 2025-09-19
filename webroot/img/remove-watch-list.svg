@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Add_to_watch_list" data-name="Add to watch list" transform="translate(-0.307)">
+    <g id="Rounded_Rectangle_15" data-name="Rounded Rectangle 15" transform="translate(0.307)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.45">
+      <rect width="44" height="44" rx="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="43" height="43" rx="21.5" fill="none"/>
+    </g>
+    <g id="playlist_add-24px" transform="translate(10.307 10)" opacity="0.75">
+      <path id="Path_3068" data-name="Path 3068" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Union_11" data-name="Union 11" d="M7345.606-11491.977l-2.93,2.976-1.462-1.489,2.927-2.975-2.927-2.972,1.462-1.488,2.93,2.976,2.93-2.976,1.465,1.488-2.93,2.972,2.93,2.975-1.465,1.489Zm-15.605-.51v-2.1h7.247v2.1Zm0-4.205v-2.1h9.318v2.1Zm0-4.208v-2.1h12.424v2.1Z" transform="translate(-7328.001 11508.002)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

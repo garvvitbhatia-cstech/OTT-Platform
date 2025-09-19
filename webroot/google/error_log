@@ -1,0 +1,68 @@
+[08-Oct-2016 06:47:44 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/VoepLDiimEfXG...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/VoepLDiimEfXG...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[08-Oct-2016 06:50:09 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Invalid code.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/VoepLDiimEfXG...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/VoepLDiimEfXG...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[08-Oct-2016 06:50:09 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/VoepLDiimEfXG...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/VoepLDiimEfXG...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[08-Oct-2016 06:50:15 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/VoepLDiimEfXG...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/VoepLDiimEfXG...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[08-Oct-2016 06:50:57 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Code was already redeemed.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/VoepLDiimEfXG...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/VoepLDiimEfXG...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[26-May-2017 06:52:29 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Invalid code.'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/feEvV0Hf95GnD...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/feEvV0Hf95GnD...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[20-Aug-2018 04:45:58 UTC] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/oauth2/v2/userinfo: (500) Backend Error' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Http/REST.php:110
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home/dhatuorganics123/public_html/app/webroot/google/libraries/G in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Http/REST.php on line 110
+[06-Sep-2018 08:35:52 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Error fetching OAuth2 access token, message: 'invalid_grant: Bad Request'' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/UgC9Cu4tLglHI...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/UgC9Cu4tLglHI...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[30-Jan-2019 10:20:28 UTC] PHP Fatal error:  Uncaught Google_Auth_Exception: Error fetching OAuth2 access token, message: 'invalid_grant: Bad Request' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/4gCVZ9y8IFhHC...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/4gCVZ9y8IFhHC...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[30-Jan-2019 13:06:13 UTC] PHP Fatal error:  Uncaught Google_Auth_Exception: Error fetching OAuth2 access token, message: 'invalid_grant: Bad Request' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/4gCNuVG_kdEht...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/4gCNuVG_kdEht...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
+[04-Feb-2019 05:43:41 UTC] PHP Fatal error:  Uncaught Google_Auth_Exception: Error fetching OAuth2 access token, message: 'invalid_grant: Bad Request' in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php:125
+Stack trace:
+#0 /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Client.php(128): Google_Auth_OAuth2->authenticate('4/5wDd-Kz79rz2k...', false)
+#1 /home/dhatuorganics123/public_html/app/webroot/google/index.php(48): Google_Client->authenticate('4/5wDd-Kz79rz2k...')
+#2 {main}
+  thrown in /home/dhatuorganics123/public_html/app/webroot/google/libraries/Google/Auth/OAuth2.php on line 125
