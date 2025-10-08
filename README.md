@@ -1,8 +1,8 @@
 ## Technology
 
-Frontend: Cakephp, jQuery, HTML, CSS
-Backend: Cakephp
-Database: MySql
+-> Frontend: Cakephp, jQuery, HTML, CSS
+-> Backend: Cakephp
+-> Database: MySql
 
 
 ## Overview
