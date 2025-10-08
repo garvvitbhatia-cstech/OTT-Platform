@@ -1,8 +1,9 @@
 ## Technology
 
--> Frontend: Cakephp, jQuery, HTML, CSS
--> Backend: Cakephp
--> Database: MySql
+1. Frontend: Cakephp, jQuery, HTML, CSS
+2. Backend: Cakephp
+3. Database: MySql
+4. PhonePe paymant gateway
 
 
 ## Overview
